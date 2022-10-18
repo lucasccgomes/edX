@@ -1,0 +1,157 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 10px 70px;
+}
+
+header h1 {
+    color: rgb(48, 33, 33);
+}
+
+header h2 {
+    color: rgb(134, 41, 41);
+}
+
+header h3 {
+    color: rgb(61, 45, 45);
+    border: 1.3px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: dashed;
+    border-color: rgb(184, 82, 15);
+}
+
+header h3:hover {
+    background-color: rgba(95, 54, 54, 0.267);
+}
+
+p {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#education {
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(124, 63, 22);
+}
+
+.educa h1 {
+    color: rgb(134, 41, 41);
+    padding: 0px 0px 0px 10px ;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.educa section {
+    border: 1.5px;
+    border-style: solid;
+    border-color: brown;
+    padding: 0px;
+    margin: 5px 5px 5px 5px !important ;
+}
+
+.educa section h1 {
+    color: rgb(48, 33, 33);
+    border-color: brown;
+    border: 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+}
+
+
+#work {
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(124, 63, 22);
+    margin-top: 10px;
+}
+
+.experience h1 {
+    color: rgb(134, 41, 41);
+    padding: 0px 0px 0px 10px ;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.experience section {
+    padding: 0px;
+    margin: 5px 5px 5px 5px !important ;
+}
+
+.work {
+    border: 1.5px;
+    border-style: solid;
+    border-color: brown;
+    margin-bottom: 5px;
+}
+
+.work h1 {
+    color: rgb(48, 33, 33);
+    border-color: brown;
+    border: 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+}
+
+#favoritos {
+    margin-top: 10px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(124, 63, 22);
+}
+
+#favoritos h1 {
+    color: rgb(134, 41, 41);
+    padding: 0px 0px 0px 10px ;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.foods, .websites {
+    margin: 5px;
+    border: 1.5px;
+    border-style: solid;
+    border-color: brown;
+    margin-bottom: 5px;
+}
+
+#favoritos h2 {
+    color: rgb(48, 33, 33);
+    border-color: brown;
+    border: 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(19, 17, 17);
+    background-color: rgba(105, 65, 65, 0.384);
+    border-radius: 2px;
+}
+
+a:hover {
+    background-color: rgba(165, 42, 42, 0.267);
+}
+
+a:active {
+    background-color: rgb(88, 88, 41);
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(83, 13, 13, 0.445);
+}
+
+footer > p > a {
+    background-color: rgba(0, 255, 255, 0);
+}

@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(236, 217, 182);
+    margin: 10px 70px;
+}
+
+h1, .favorite-foods, .favorite-websites {
+    background-color: rgb(87, 87, 219);
+    color: bisque;
+    font-family: serif;
+}
+
+.quote {
+    color: blue;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+p {
+    border: 3px dashed blue;
+    color: rgb(0, 110, 255);
+    font-weight: bold;
+}
+
+ol, ul {
+    border: 3px solid blue;
+    color: rgb(80, 95, 95);
+}

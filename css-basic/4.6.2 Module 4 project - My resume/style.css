@@ -1,0 +1,148 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    min-width: 240px;
+    max-width: 1000px;
+}
+
+header {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+header .name {
+    color: aqua;
+}
+
+header .firstname {
+    color: black;
+}
+
+.email, .github, .location {
+    color: aqua;
+}
+
+.name {
+    float: left;
+    margin-right: 450px;
+    margin-left: 20px;
+    max-width: 300px;
+    min-width: 240px;  
+}
+
+.dice li {
+    list-style-type: none;
+}
+
+h2 {
+    border: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+h3 {
+    color: aqua;
+}
+
+#work-experience {
+    max-width: 630px;
+    margin-top: 39px;
+    margin-left: 0px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+#work-experience > h2 {
+    border: 0px;
+    border-bottom: 2px;
+    border-color: black;
+    border-style: solid;  
+}
+
+.works {
+    max-width: 85%;
+    padding-top: 1px;
+}
+
+.works  h3, p {
+    padding-left: 20px;
+}
+
+.experience {
+    height: 100px;
+    padding-top: 10px;
+    border: 0px;
+    border-left: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.period {
+    float: left;
+    margin-left: -10%;
+    margin-top: 7%;  
+}
+
+.period > p {
+    padding-top: 33px;
+    padding-right: 5px;
+}
+
+#extra-information {
+    position: relative;
+    max-width: 35%;
+    min-width: 240px;
+    left: 325px;
+    top: -695px;
+}
+
+#extra-information p {
+   padding-top: 8px;
+   padding-bottom: 8px;
+}
+
+#extra-information h3 {
+    padding-top: 8px;
+    margin-left: 13px;
+}
+
+.charity-work {
+    position: relative;
+    margin-top: -720px;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+.charity-work .experience {
+    max-width: 90%;
+}
+
+.charity-work h3 {
+    padding-left: 20px;
+}
+
+.charity-work > .period {
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 255, 0.247);
+}
