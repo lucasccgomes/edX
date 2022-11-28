@@ -1,0 +1,13 @@
+ol {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+li {
+    margin-bottom: 10px;
+    list-style-image: url(https://courses.edx.org/assets/courseware/v1/073e0b55b08d259174c48c569c6696d9/asset-v1:W3Cx+HTML5.0x+1T2022+type@asset+block/my_triangle.png) ;
+}
+
+h1 {
+    color: darkred;
+}
