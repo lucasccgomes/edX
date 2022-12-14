@@ -1,0 +1,38 @@
+
+
+h1 {
+    background-color: chocolate;
+    color: azure;
+    text-align: center;
+}
+
+nav  {
+    background-color: darkkhaki;
+    max-width: 300px;
+}
+
+nav li:hover {
+    background-color: coral;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    background-color: rgba(207, 112, 43, 0.699);
+}
+
+h3 {
+    background-color: rgba(165, 42, 42, 0.527);
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+img {
+    border: 5px;
+    border-style: solid;
+    padding: 5px;
+}
